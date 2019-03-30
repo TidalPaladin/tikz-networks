@@ -5,7 +5,7 @@ This library provides a set of commands that simply the creation of
 Tikz figures representing convolutional neural networks. This project
 is still a work in progress.
 
-![Sample output](example/example.pdf)
+![Sample output](example/example.png)
 
 ## Intro
 
